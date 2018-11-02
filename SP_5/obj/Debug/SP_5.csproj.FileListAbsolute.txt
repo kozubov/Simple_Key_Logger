@@ -1,0 +1,10 @@
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\bin\Debug\SP_5.exe.config
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\bin\Debug\SP_5.exe
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\bin\Debug\SP_5.pdb
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\obj\Debug\SP_5.csprojAssemblyReference.cache
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\obj\Debug\SP_5.KeyLoggerSpy.resources
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\obj\Debug\SP_5.Properties.Resources.resources
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\obj\Debug\SP_5.csproj.GenerateResource.cache
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\obj\Debug\SP_5.csproj.CoreCompileInputs.cache
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\obj\Debug\SP_5.exe
+D:\999\sys_prog\5\SP_5\SP_5\SP_5\obj\Debug\SP_5.pdb
